@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zzAlMoo, a student at UniBG
-- 👀 I’m interested in game development and creation of RESTful APIs
+- 👀 I’m interested in game development and Flutter apps
 - 🌱 I’m currently learning Flutter and Unity development
-- 📫 You can contact me on: 
+- 📫 You can contact me at: 
   instagram: @_simonesechi
   email:simone.sechi24@gmail.com
   
