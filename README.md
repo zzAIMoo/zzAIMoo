@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzAlMoo, a student at UniBG
-- 👀 I’m interested in game development and App making
-- 🌱 I’m currently learning Flutter and Unity development
+- 👀 I’m interested in Game Dev and Mobile Dev
+- 🌱 I’m currently learning Flutter and C# with Unity
 - ✨ Fun fact: other than programming i like skating and gaming
 - 📫 You can contact me at: 
   instagram: @_simonesechi
