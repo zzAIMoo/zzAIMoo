@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Flutter and C# with Unity
 - ✨ Fun fact: other than programming i like skating and gaming
 - 📫 You can contact me at: 
-  instagram: @_simonesechi
-  email: simone.sechi24@gmail.com
+    - instagram: @_simonesechi
+    - email: simone.sechi24@gmail.com
   
 
 <!---
