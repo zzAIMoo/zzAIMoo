@@ -26,7 +26,7 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zzaimooo&theme=cobalt&show_icons=true&locale=en" alt="acidicnic" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zzaimoo&theme=cobalt&show_icons=true&locale=en" alt="acidicnic" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zzaimoo&theme=cobalt" alt="acidicnic" /></p>
 <!---
