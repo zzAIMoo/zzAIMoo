@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @zzAlMoo, a student at UniBG
-- 👀 I’m interested in Game Dev and Mobile Dev
-- 🌱 I’m currently learning Flutter and C# with Unity
-- ✨ Fun fact: other than programming i like skating and gaming
-- 📫 You can contact me at: 
-    - instagram: @_simonesechi
-    - email: simone.sechi24@gmail.com
-  
 [<h1 align="center">✨Simone Sechi✨</h1>](https://zzaimoo.github.io/)
 <h3 align="center">Mobile and Game developer, still studying engineering</h3>
 
