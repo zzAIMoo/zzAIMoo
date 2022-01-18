@@ -17,6 +17,6 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zzaimoo&theme=shades-of-purple&show_icons=true&locale=en" alt="zzaimoo" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zzaimoo&theme=shades-of-purple&count_private=true&show_icons=true&locale=en" alt="zzaimoo" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zzaimoo&theme=shades-of-purple" alt="zzaimoo" /></p>
