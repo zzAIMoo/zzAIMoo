@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzaimoo&label=Profile%20views&style=flat-square&color=2bbc8a" alt="profile views"/>
-  <img src="https://badges.pufler.dev/commits/monthly/zzaimoo" alt="commits this month"/>
   <img src="https://badges.pufler.dev/repos/zzaimoo?style=flat-square&color=2bbc8a" alt="total repos"/>
 </p>
 
