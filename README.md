@@ -1,5 +1,5 @@
 [<h1 align="center">✨Simone Sechi✨</h1>](https://zzaimoo.github.io/)
-<h3 align="center">Mobile and Game developer, currently studying engineering at UniBG</h3>
+<h3 align="center">Fullstack developer for SMarT strategy, currently studying engineering at UniBG, in my free time i'm trying to learn game development using unity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzaimoo&label=Profile%20views&style=flat-square&color=2bbc8a" alt="profile views"/>
