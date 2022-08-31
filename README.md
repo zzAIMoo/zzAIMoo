@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working for SMarT strategy<br>🌱 I'm currently learning Unity C#development and Web Design<br>⚡ Fun Fact: did you know C# is just C with 4 + stacked to make an #?
+💼 I'm currently working for @SMarT Strategy <br>🌱 I'm currently learning Unity C#development and Web Design<br>⚡ Fun Fact: did you know C# is just C with 4 + stacked to make an #?
 
 
 ## 🌐 Socials:
