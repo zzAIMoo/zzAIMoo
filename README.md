@@ -12,9 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zzAIMoo&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzAIMoo&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies and Holopin Badges
 ![](https://github-profile-trophy.vercel.app/?username=zzAIMoo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## 👾 Holopin Badges
+[![@zaimo's Holopin board](https://holopin.io/api/user/board?user=zaimo)](https://holopin.io/@zaimo)
 
 ## 💰 You can help me by Donating (<3)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ssimonesechii) 
