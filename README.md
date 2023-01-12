@@ -8,9 +8,9 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zzAIMoo&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=zzAIMoo&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zzAIMoo&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzAIMoo&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzAIMoo&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ### 🏆 GitHub Trophies and Holopin Badges
 ![](https://github-profile-trophy.vercel.app/?username=zzAIMoo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
