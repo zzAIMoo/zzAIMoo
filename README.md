@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working for [SMarT Strategy](https://github.com/SMarTStrategy) <br>🌱 I'm currently learning Unity C# development and Web Design<br>⚡ Fun Fact: C# is just C with 4 + stacked to make an #
+💼 I'm currently working for [SMarT Strategy](https://github.com/SMarTStrategy) <br>⚡ Fun Fact: C# is just C with 4 + stacked to make an #
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_simonesechi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-sechi-bg) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zzAIMoo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11486454) 
